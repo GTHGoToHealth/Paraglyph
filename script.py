@@ -232,7 +232,7 @@ h("style")(
 
 
 def create_header(data: Data):
-    return h("header", klass="container", style="margin-bottom: 1rem")(
+    return h("header", klass="container")(
         h("hgroup")(
             h("img", klass="avatar", src=f"img/{data.image}", alt="avatar", style="width: 351px; height: auto; margin-bottom: 0.5rem;"),
             h("h1")(data.name),
