@@ -8,65 +8,54 @@ text_align = "center"
 gtag_id = "GTM-55D6RKC6"
 base_url = "https://gthgotohealth.github.io"
 
-[[sections]]
-title = "Reward Link!"
-description = "Follow Us!!"
-direction = "column"
-item_style = "outline"
-text_color = "#ffbf00" 
-hover_color = "#ffffff"
-
-#[[sections.items]]
-#[[embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"]]
 
 [[sections.items]]
-title = "🎉 Mystery Cashback Reward!"
-description = """Follow us on Instagram. ➜ DM us the Screenshot. ➜ Assured Cashback!
-Valid for 12 Hours Only"""
-url = "https://www.instagram.com/gotohealth.in?igsh=NTlreGZpN3RncXk2"
-text_color = "#ffbf00" 
+[[embed_url = "https://youtu.be/9AlMWDkBkTI"]]
 
 
 [[sections]]
-title = "Order Now!"
-description = "Heavy Discount!"
-direction = "column"
-item_style = "outline"
-text_color = "#ffbf00" 
-hover_color = "#ffffff"
-
-[[sections.items]]
-title = "60% off on Zomato"
-description = "Order on Zomato"
-url = "https://www.zomato.com"
-text_color = "#ffbf00" 
-
-[[sections.items]]
-title = "60% off on Swiggy"
-description = "Order on Swiggy"
-url = "https://www.swiggy.com"
-text_color = "#ffbf00" 
-
-
-
-[[sections]]
-title = "Meal Plan Subscription"
-description = "WhatsApp Us!"
+title = "TuneCore - Single - "Koi Bat De""
+description = "Links to the New Song"
 direction = "row"
 item_style = "filled"
 icon_size = "30px"
 hover_color = "#ffffff"
 
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/whatsapp/3f4436"
-title = "WhatsApp"
-url = "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6?si=wwBiwvCkTWmmqXE1P8d6tg"
+icon = "https://cdn.simpleicons.org/instaggoogledocsram/3f4436"
+title = "Lyrics"
+url = "https://theparaglyph-dot-yamm-track.appspot.com/2_q6z191RuIbIdX3JP0mfAccQsNAB1MvS0ecjkZy9x_fMU3MilQEIQw1u3H59cy-fnH-QVmEfu72djxVABPXgzx_7_RC3Frzt_8E4wZw7MEyVM9IcNQFVuShN-sZI3GHfUcm6Ltfn5-sbebP1JGcjrXpXcnZn-cbBYvHjQKvpbFWpP3DA9CZuknf8tb9yVlTwkUp7gutox1U_03U8hRKvd9YdnbKCDWNe5uWRo6hQWBOf6Y1yfpFply4zTWSOoGHTMeqPYjPwHuLE0wjtct65D7Zhnel5to7hE912dX8An8AN76KRFpIYLCU8ey9gx3uTumcQNc6oV1Zd5gPOq1zfQy8ZVtO7odjeF4gPK-ssjXo6P8ewEMLEwABXzph1GWB-ysEx2l3_xz63oCorkEyzh1A1BBHuM3uE4k8sb2sjwCiE4LLpY0G34Hx50UB5hR2o9qe4MySv3VW_3cudjzfRLiJkgAUQhMyzA2VHDYbsPMirUZH-Y4JExwWj"
+text_color = "#3f4436" 
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/youtube/3f4436"
+title = "YouTube Audio"
+url = "https://theparaglyph.yatrack2.com/2zDolN8-al7PZ8SiWhxjFmG90BVnSsEsfSZQEGD82HFxIchL6lAHvC3Yauzi4--4XczSFzlkrqidKJauEmmV5DBCULQnOF0TuTCbzZjGjk5TfTGy3ikFhthd-WLWMTZeNhBGG67bWrA6aMJ5Nm2g4NOAII2nUkcTQjCKI3Ie-hr1FWNzPCtgv"
+text_color = "#3f4436" 
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/googledrive/3f4436"
+title = "GDrive"
+url = "https://theparaglyph.yatrack2.com/2FIEgFU4X1F6U4CLHwKUE8_wq0QkiqhUEQhKrB7b8d1JNchL6lAG14dCvGzGRdV7iQ8FTYhXSEx1VktlfY3KOsik5E2qF39b8sG__HbaAvLzYPNcxKBNuGIAPvISrmDAqLpTn1MceoIMhplP0jT5ZvMoMWZtBE3xIZ9J_kolzKLcwwtSGDUzLKbon2yL2FqsQ-s2a49cxLHQePCV7BZLBCgOJoBC_dKz4qEmoxsIfLhXd4t0"
+text_color = "#3f4436" 
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/dropbox/3f4436"
+title = "DropBox"
+url = "https://theparaglyph.yatrack2.com/276wWk4pCr8EEJqmDBVRxftdPmXSiYDtmzDAqFaj4E41PchL6lAHN-h6tlkTN5nR2PeN_INymlX-IoaxGgwGhuSzJgxXEl4Y8y2Rg1zrh4UA3pzHEe_RkC46jxxb9dtrPFYs4EgLDC2PjZ97XDeXoPKSG6skSw6huhLZp6g84nqfQZTNMdvDN1-dzxg5wZ1-AFqMGYyiaxv5jWPN8ma-5qslHMVfQ5DgpRMIfg-cFe7mDkAV2EtRMuGYD_xk60bEFMMfO_eo4uRYfgQvX1t0VEQJdLQXSyEkVa6JxXypD8Kbbbfm1dm0"
+text_color = "#3f4436" 
+
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/bandlab/3f4436"
+title = "BandLab"
+url = "https://theparaglyph.yatrack2.com/2hbJs9IFDbOrJAYXcMVFUdETqiVzBHZXBCc6Pnm_LdiVSchL6lAG8GzHyrUd2SmGAILnjOrWwapk5_LpihGCpaUHshVlwLsxVpAdskkKsNqBqZmAF1Y6dBOkK2NWFiR2_hq7I2vYj_kJWstoa_oWLEr_8dGlwDWuf0RkAtscj_cEBF6OvBHFYkSfi5g0C8kAsTb-QG_EDwXvUOsv4knWfWNcQpH3h_65Yxn72E9BA3VONJeuiwbYsXC9_aekH0DEb1w"
 text_color = "#3f4436" 
 
 
 [[sections]]
-title = "Social Media Links"
-description = "It's Free! Follow Us!"
+title = "Social Media Profiles"
+description = "Follow me on my Socials!"
 direction = "row"
 item_style = "filled"
 icon_size = "30px"
@@ -74,28 +63,21 @@ hover_color = "#ffffff"
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/3f4436"
-title = "Instagram "
-url = "https://www.instagram.com/gotohealth.in?igsh=NTlreGZpN3RncXk2"
+title = "Instagram"
+url = "https://open.spotify.com/artist/01183I1kKHm1VrSPHNctn9?si=ycobF75nQ8qQhEAq7nTigA"
 text_color = "#3f4436" 
 
-
-
-
-[[sections]]
-title = "GTH Playlists"
-description = "Chewing in silence is illegal. Listen to our curated Playlist"
-direction = "row"
-item_style = "filled"
-icon_size = "30px"
-hover_color = "#ffffff"
-
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/youtube/3f4436"
+title = "YouTube"
+url = "https://youtube.com/@theparaglyph?si=GFCeFq_4Wdqfa0Sg"
+text_color = "#3f4436" 
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/spotify/3f4436"
 title = "Spotify"
-url = "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6?si=wwBiwvCkTWmmqXE1P8d6tg"
+url = "https://open.spotify.com/artist/01183I1kKHm1VrSPHNctn9?si=ycobF75nQ8qQhEAq7nTigA"
 text_color = "#3f4436" 
-
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/applemusic/3f4436"
@@ -104,8 +86,4 @@ url = "https://music.apple.com/us/playlist/evergreen/pl.7d5e4029dd9140ffbb5da5fd
 text_color = "#3f4436" 
 
 
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/youtube/3f4436"
-title = "YouTube"
-url = "https://youtube.com/playlist?list=PL4z_RyE17TOtDAhtHXwbgI2kkwIp78_-9&si=lMuMuo3YHVkmiGCB"
-text_color = "#3f4436" 
+
