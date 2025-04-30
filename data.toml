@@ -1,0 +1,111 @@
+name = "Go-To Health"
+description = "Go-To Food for a Healthier You!"
+keywords = "Health Food, Salad, Swiggy, Zomato, Quinova, Indian, Superfood"
+image = "Full Circle GTH Logo.webp"
+theme = "dark"
+primary_color = "#ffbf00"
+text_align = "center"
+gtag_id = "GTM-55D6RKC6"
+base_url = "https://gthgotohealth.github.io"
+
+[[sections]]
+title = "Reward Link!"
+description = "Follow Us!!"
+direction = "column"
+item_style = "outline"
+text_color = "#ffbf00" 
+hover_color = "#ffffff"
+
+#[[sections.items]]
+#[[embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"]]
+
+[[sections.items]]
+title = "🎉 Mystery Cashback Reward!"
+description = """Follow us on Instagram. ➜ DM us the Screenshot. ➜ Assured Cashback!
+Valid for 12 Hours Only"""
+url = "https://www.instagram.com/gotohealth.in?igsh=NTlreGZpN3RncXk2"
+text_color = "#ffbf00" 
+
+
+[[sections]]
+title = "Order Now!"
+description = "Heavy Discount!"
+direction = "column"
+item_style = "outline"
+text_color = "#ffbf00" 
+hover_color = "#ffffff"
+
+[[sections.items]]
+title = "60% off on Zomato"
+description = "Order on Zomato"
+url = "https://www.zomato.com"
+text_color = "#ffbf00" 
+
+[[sections.items]]
+title = "60% off on Swiggy"
+description = "Order on Swiggy"
+url = "https://www.swiggy.com"
+text_color = "#ffbf00" 
+
+
+
+[[sections]]
+title = "Meal Plan Subscription"
+description = "WhatsApp Us!"
+direction = "row"
+item_style = "filled"
+icon_size = "30px"
+hover_color = "#ffffff"
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/whatsapp/3f4436"
+title = "WhatsApp"
+url = "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6?si=wwBiwvCkTWmmqXE1P8d6tg"
+text_color = "#3f4436" 
+
+
+[[sections]]
+title = "Social Media Links"
+description = "It's Free! Follow Us!"
+direction = "row"
+item_style = "filled"
+icon_size = "30px"
+hover_color = "#ffffff"
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/instagram/3f4436"
+title = "Instagram "
+url = "https://www.instagram.com/gotohealth.in?igsh=NTlreGZpN3RncXk2"
+text_color = "#3f4436" 
+
+
+
+
+[[sections]]
+title = "GTH Playlists"
+description = "Chewing in silence is illegal. Listen to our curated Playlist"
+direction = "row"
+item_style = "filled"
+icon_size = "30px"
+hover_color = "#ffffff"
+
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/spotify/3f4436"
+title = "Spotify"
+url = "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6?si=wwBiwvCkTWmmqXE1P8d6tg"
+text_color = "#3f4436" 
+
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/applemusic/3f4436"
+title = "Apple Music"
+url = "https://music.apple.com/us/playlist/evergreen/pl.7d5e4029dd9140ffbb5da5fda64b3f02"
+text_color = "#3f4436" 
+
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/youtube/3f4436"
+title = "YouTube"
+url = "https://youtube.com/playlist?list=PL4z_RyE17TOtDAhtHXwbgI2kkwIp78_-9&si=lMuMuo3YHVkmiGCB"
+text_color = "#3f4436" 
