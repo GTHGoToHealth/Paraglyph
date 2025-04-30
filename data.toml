@@ -9,6 +9,14 @@ gtag_id = "GTM-55D6RKC6"
 base_url = "https://gthgotohealth.github.io"
 
 
+[[sections]]
+title = "YouTube Link for the Demo"
+description = "Play and Vibe to it!"
+direction = "column"
+item_style = "outline"
+text_color = "#ffbf00" 
+hover_color = "#ffffff"
+
 [[sections.items]]
 [[embed_url = "https://youtu.be/9AlMWDkBkTI"]]
 
@@ -44,7 +52,6 @@ icon = "https://cdn.simpleicons.org/dropbox/3f4436"
 title = "DropBox"
 url = "https://www.dropbox.com/scl/fi/yvr8hnyufa4hkosvej5tc/Koi-Bata-De-Paraglyph-TF101.wav?rlkey=lw9wj52climuhbmn9wu5qb9j9&st=8o8xmhwi&dl=0"
 text_color = "#3f4436" 
-
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/bandlab/3f4436"
