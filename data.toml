@@ -10,7 +10,7 @@ base_url = "https://gthgotohealth.github.io"
  
 
 [[sections]]
-title = "TuneCore - [Unreleased]Single - Koi Bat De!"
+title = "TuneCore - [Unreleased] Single - Koi Bat De!"
 description = "Links to the New Song"
 direction = "row"
 item_style = "filled"
