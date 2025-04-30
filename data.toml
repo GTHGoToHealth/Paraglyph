@@ -1,28 +1,16 @@
 name = "Paraglyph"
 description = "Music Producer"
 keywords = "Music, Music Producer, Sound, Sound Design, Mixing, Mastering, Songs"
-image = "Full Circle GTH Logo.webp"
+image = "Paraglyph Logo.webp"
 theme = "dark"
 primary_color = "#ffbf00"
 text_align = "center"
 gtag_id = "GTM-55D6RKC6"
 base_url = "https://gthgotohealth.github.io"
-
-
-[[sections]]
-title = "YouTube Link for the Demo"
-description = "Play and Vibe to it!"
-direction = "column"
-item_style = "outline"
-text_color = "#ffbf00" 
-hover_color = "#ffffff"
  
-[[sections.items]]
-embed_url = "https://youtu.be/9AlMWDkBkTI"
-
 
 [[sections]]
-title = "TuneCore - Single - Koi Bat De"
+title = "TuneCore - Single - Koi Bat De!"
 description = "Links to the New Song"
 direction = "row"
 item_style = "filled"
