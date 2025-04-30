@@ -10,7 +10,7 @@ base_url = "https://gthgotohealth.github.io"
  
 
 [[sections]]
-title = "TuneCore - Single - Koi Bat De!"
+title = "TuneCore - [Unreleased]Single - Koi Bat De!"
 description = "Links to the New Song"
 direction = "row"
 item_style = "filled"
@@ -23,10 +23,18 @@ title = "Lyrics"
 url = "https://docs.google.com/document/d/19mFMH9SPM1FVwgtHohoU66ic6j-U6CQ_wioP0WnBOSw/edit?tab=t.0"
 text_color = "#3f4436" 
 
+
+
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/youtube/3f4436"
-title = "YouTube Audio"
+title = "YouTube (Unlisted)"
 url = "https://www.youtube.com/watch?v=8W1ONUxBLIM"
+text_color = "#3f4436" 
+
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/soundcloud/3f4436"
+title = "SoundCloud"
+url = "https://soundcloud.com/paraglyph/koi-bata-de-paraglyph-tf101/s-aVTGvG9GRA4?si=ec39f90bc3a64c839a5d6556e577e761&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharingg"
 text_color = "#3f4436" 
 
 [[sections.items]]
