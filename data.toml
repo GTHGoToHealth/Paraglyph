@@ -14,7 +14,7 @@ base_url = "https://gthgotohealth.github.io"
 
 
 [[sections]]
-title = "TuneCore - Single - "Koi Bat De""
+title = "TuneCore - Single - Koi Bat De"
 description = "Links to the New Song"
 direction = "row"
 item_style = "filled"
@@ -22,34 +22,34 @@ icon_size = "30px"
 hover_color = "#ffffff"
 
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/instaggoogledocsram/3f4436"
+icon = "https://cdn.simpleicons.org/googledocs/3f4436"
 title = "Lyrics"
-url = "https://theparaglyph-dot-yamm-track.appspot.com/2_q6z191RuIbIdX3JP0mfAccQsNAB1MvS0ecjkZy9x_fMU3MilQEIQw1u3H59cy-fnH-QVmEfu72djxVABPXgzx_7_RC3Frzt_8E4wZw7MEyVM9IcNQFVuShN-sZI3GHfUcm6Ltfn5-sbebP1JGcjrXpXcnZn-cbBYvHjQKvpbFWpP3DA9CZuknf8tb9yVlTwkUp7gutox1U_03U8hRKvd9YdnbKCDWNe5uWRo6hQWBOf6Y1yfpFply4zTWSOoGHTMeqPYjPwHuLE0wjtct65D7Zhnel5to7hE912dX8An8AN76KRFpIYLCU8ey9gx3uTumcQNc6oV1Zd5gPOq1zfQy8ZVtO7odjeF4gPK-ssjXo6P8ewEMLEwABXzph1GWB-ysEx2l3_xz63oCorkEyzh1A1BBHuM3uE4k8sb2sjwCiE4LLpY0G34Hx50UB5hR2o9qe4MySv3VW_3cudjzfRLiJkgAUQhMyzA2VHDYbsPMirUZH-Y4JExwWj"
+url = "https://docs.google.com/document/d/19mFMH9SPM1FVwgtHohoU66ic6j-U6CQ_wioP0WnBOSw/edit?tab=t.0"
 text_color = "#3f4436" 
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/youtube/3f4436"
 title = "YouTube Audio"
-url = "https://theparaglyph.yatrack2.com/2zDolN8-al7PZ8SiWhxjFmG90BVnSsEsfSZQEGD82HFxIchL6lAHvC3Yauzi4--4XczSFzlkrqidKJauEmmV5DBCULQnOF0TuTCbzZjGjk5TfTGy3ikFhthd-WLWMTZeNhBGG67bWrA6aMJ5Nm2g4NOAII2nUkcTQjCKI3Ie-hr1FWNzPCtgv"
+url = "https://www.youtube.com/watch?v=8W1ONUxBLIM"
 text_color = "#3f4436" 
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/googledrive/3f4436"
 title = "GDrive"
-url = "https://theparaglyph.yatrack2.com/2FIEgFU4X1F6U4CLHwKUE8_wq0QkiqhUEQhKrB7b8d1JNchL6lAG14dCvGzGRdV7iQ8FTYhXSEx1VktlfY3KOsik5E2qF39b8sG__HbaAvLzYPNcxKBNuGIAPvISrmDAqLpTn1MceoIMhplP0jT5ZvMoMWZtBE3xIZ9J_kolzKLcwwtSGDUzLKbon2yL2FqsQ-s2a49cxLHQePCV7BZLBCgOJoBC_dKz4qEmoxsIfLhXd4t0"
+url = "https://drive.google.com/file/d/17hOuQYsgTW-Q_DUgXF03E6Q8azsHqTfg/view"
 text_color = "#3f4436" 
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/dropbox/3f4436"
 title = "DropBox"
-url = "https://theparaglyph.yatrack2.com/276wWk4pCr8EEJqmDBVRxftdPmXSiYDtmzDAqFaj4E41PchL6lAHN-h6tlkTN5nR2PeN_INymlX-IoaxGgwGhuSzJgxXEl4Y8y2Rg1zrh4UA3pzHEe_RkC46jxxb9dtrPFYs4EgLDC2PjZ97XDeXoPKSG6skSw6huhLZp6g84nqfQZTNMdvDN1-dzxg5wZ1-AFqMGYyiaxv5jWPN8ma-5qslHMVfQ5DgpRMIfg-cFe7mDkAV2EtRMuGYD_xk60bEFMMfO_eo4uRYfgQvX1t0VEQJdLQXSyEkVa6JxXypD8Kbbbfm1dm0"
+url = "https://www.dropbox.com/scl/fi/yvr8hnyufa4hkosvej5tc/Koi-Bata-De-Paraglyph-TF101.wav?rlkey=lw9wj52climuhbmn9wu5qb9j9&st=8o8xmhwi&dl=0"
 text_color = "#3f4436" 
 
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/bandlab/3f4436"
 title = "BandLab"
-url = "https://theparaglyph.yatrack2.com/2hbJs9IFDbOrJAYXcMVFUdETqiVzBHZXBCc6Pnm_LdiVSchL6lAG8GzHyrUd2SmGAILnjOrWwapk5_LpihGCpaUHshVlwLsxVpAdskkKsNqBqZmAF1Y6dBOkK2NWFiR2_hq7I2vYj_kJWstoa_oWLEr_8dGlwDWuf0RkAtscj_cEBF6OvBHFYkSfi5g0C8kAsTb-QG_EDwXvUOsv4knWfWNcQpH3h_65Yxn72E9BA3VONJeuiwbYsXC9_aekH0DEb1w"
+url = "https://www.bandlab.com/revisions/c2d9dfdf-8de5-ef11-88f6-6045bd3473c0?sharedKey=Qeb9Nzh-MEavTMtlV5KF-Q"
 text_color = "#3f4436" 
 
 
@@ -64,7 +64,7 @@ hover_color = "#ffffff"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/3f4436"
 title = "Instagram"
-url = "https://open.spotify.com/artist/01183I1kKHm1VrSPHNctn9?si=ycobF75nQ8qQhEAq7nTigA"
+url = "https://www.instagram.com/theparaglyph?igsh=MXExYncxaWthMmZyeg%3D%3D&utm_source=qr"
 text_color = "#3f4436" 
 
 [[sections.items]]
