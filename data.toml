@@ -1,7 +1,7 @@
 name = "Paraglyph"
 description = "Music Producer"
 keywords = "Music, Music Producer, Sound, Sound Design, Mixing, Mastering, Songs"
-image = "Paraglyph Logo.webp"
+image = "Paraglyph Logo.png"
 theme = "dark"
 primary_color = "#ffbf00"
 text_align = "center"
