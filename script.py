@@ -244,8 +244,8 @@ def create_header(data: Data):
 def create_footer():
     return h("footer", klass="container")(
         h("small")("Copyright of "),
-        h("a", klass="", href="https://gthgotohealth.github.io/GoToHealth.github.io/", target="_blank")(
-            "Go-To Health"
+        h("a", klass="", href="https://gthgotohealth.github.io/Paraglyph/", target="_blank")(
+            "Paraglyph"
         ),
     )
 
