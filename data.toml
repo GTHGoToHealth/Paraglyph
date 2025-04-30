@@ -16,7 +16,7 @@ direction = "column"
 item_style = "outline"
 text_color = "#ffbf00" 
 hover_color = "#ffffff"
-
+ 
 [[sections.items]]
 embed_url = "https://youtu.be/9AlMWDkBkTI"
 

@@ -277,7 +277,7 @@ def generate_html(data: Data):
 def main():
     data = load_data("data.toml")
     output = generate_html(data)
-    with open("dist/index.html", "w") as f:
+    with open("index.html", "w") as f:
         f.write(output)
 
 
